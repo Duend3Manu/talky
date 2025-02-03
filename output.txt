@@ -1,0 +1,263 @@
+Comuna ingresada: Santiago
+📍 Nombre: cueto 1095
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.43254711092002,-70.6729406118393
+⛽ Precios de los combustibles:
+GNC: $909 x /m3
+GLP Vehicular: $614 x /m3
+--------------------------------------------------
+📍 Nombre: Mapocho 1998
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.43219,-70.66466
+⛽ Precios de los combustibles:
+Gasolina 93: $1,291 x /L
+Gasolina 97: $1,365 x /L
+Petroleo Diesel: $1,003 x /L
+Kerosene: $1,063 x /L
+Gasolina 95: $1,328 x /L
+--------------------------------------------------
+📍 Nombre: SAN PABLO 1571
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.434404960850074,-70.65988898277283
+⛽ Precios de los combustibles:
+Gasolina 93: $1,297 x /L
+Gasolina 97: $1,371 x /L
+Petroleo Diesel: $1,009 x /L
+Gasolina 95: $1,334 x /L
+--------------------------------------------------
+📍 Nombre: Avenida Almirante Blanco Encalada 1899
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45651927302834,-70.66068559885025
+⛽ Precios de los combustibles:
+Gasolina 93: $1,320 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,009 x /L
+Kerosene: $1,036 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: Avenida Matta 788
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45907254113782,-70.64504027366638
+⛽ Precios de los combustibles:
+Kerosene: $1,064 x /L
+Gasolina 93: $1,320 x /L
+Gasolina 95: $1,379 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,009 x /L
+--------------------------------------------------
+📍 Nombre: Lord Cochrane 152
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.44777135415395,-70.65466403961181
+⛽ Precios de los combustibles:
+Gasolina 93: $1,330 x /L
+Gasolina 97: $1,433 x /L
+Petroleo Diesel: $1,034 x /L
+Kerosene: $1,057 x /L
+Gasolina 95: $1,382 x /L
+--------------------------------------------------
+📍 Nombre: SAN PABLO 2602
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.435219716225106,-70.6730505824089
+⛽ Precios de los combustibles:
+Gasolina 93: $1,291 x /L
+Gasolina 97: $1,365 x /L
+Petroleo Diesel: $1,003 x /L
+Kerosene: $1,057 x /L
+Gasolina 95: $1,328 x /L
+--------------------------------------------------
+📍 Nombre: SAN PABLO 1990
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.43490634967846,-70.66442996263504
+⛽ Precios de los combustibles:
+Gasolina 93: $1,291 x /L
+Gasolina 97: $1,365 x /L
+Petroleo Diesel: $1,003 x /L
+Kerosene: $1,064 x /L
+Gasolina 95: $1,328 x /L
+--------------------------------------------------
+📍 Nombre: NATANIEL COX 1802
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.470150750216064,-70.64988166093826
+⛽ Precios de los combustibles:
+Gasolina 93: $1,319 x /L
+Gasolina 97: $1,438 x /L
+Petroleo Diesel: $1,006 x /L
+Kerosene: $1,061 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: VIEL 1921
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.47205925444164,-70.65635114908218
+⛽ Precios de los combustibles:
+Gasolina 93: $1,320 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,011 x /L
+Kerosene: $1,061 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: BASCUï¿½AN GUERRERO 568
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45679675716567,-70.67388206720352
+⛽ Precios de los combustibles:
+Gasolina 93: $1,316 x /L
+Gasolina 95: $1,375 x /L
+Gasolina 97: $1,438 x /L
+Kerosene: $1,053 x /L
+Petroleo Diesel: $1,005 x /L
+--------------------------------------------------
+📍 Nombre: CARMEN 185
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.446397208428984,-70.64276576042175
+⛽ Precios de los combustibles:
+Gasolina 93: $1,330 x /L
+Gasolina 97: $1,433 x /L
+Petroleo Diesel: $1,034 x /L
+Kerosene: $1,064 x /L
+Gasolina 95: $1,382 x /L
+--------------------------------------------------
+📍 Nombre: ARTURO PRAT 683
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45374438281472,-70.64860761165619
+⛽ Precios de los combustibles:
+Gasolina 93: $1,322 x /L
+Gasolina 97: $1,444 x /L
+Petroleo Diesel: $1,011 x /L
+Kerosene: $1,037 x /L
+Gasolina 95: $1,381 x /L
+--------------------------------------------------
+📍 Nombre: Avenida Matta 665
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.4578686431941,-70.64234733581543
+⛽ Precios de los combustibles:
+Gasolina 93: $1,320 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,010 x /L
+Kerosene: $1,062 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: Rosas 3218
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.437395344189646,-70.67918479442596
+⛽ Precios de los combustibles:
+Gasolina 93: $1,291 x /L
+Gasolina 97: $1,365 x /L
+Petroleo Diesel: $1,003 x /L
+Kerosene: $1,057 x /L
+Gasolina 95: $1,328 x /L
+--------------------------------------------------
+📍 Nombre: Bascuï¿½ï¿½n Guerrero 2445
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.47731245812742,-70.67188918590546
+⛽ Precios de los combustibles:
+Gasolina 93: $1,327 x /L
+Gasolina 97: $1,446 x /L
+Petroleo Diesel: $1,008 x /L
+Kerosene: $1,044 x /L
+GLP Vehicular: $614 x /m3
+Gasolina 95: $1,387 x /L
+--------------------------------------------------
+📍 Nombre: MANUEL ANTONIO MATTA 1345
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45971476238552,-70.65239489078522
+⛽ Precios de los combustibles:
+Gasolina 93: $1,320 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,009 x /L
+Kerosene: $1,054 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: 10 de Julio Huamachuco 1254
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45462832925475,-70.65228223800659
+⛽ Precios de los combustibles:
+Gasolina 93: $1,322 x /L
+Gasolina 97: $1,444 x /L
+Petroleo Diesel: $1,011 x /L
+Gasolina 95: $1,381 x /L
+--------------------------------------------------
+📍 Nombre: SAN DIEGO 1409
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.46407592298543,-70.64919233322144
+⛽ Precios de los combustibles:
+Gasolina 93: $1,323 x /L
+Gasolina 97: $1,445 x /L
+Petroleo Diesel: $1,012 x /L
+Gasolina 95: $1,382 x /L
+--------------------------------------------------
+📍 Nombre: SAN FRANCISCO 1401
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.46357917795025,-70.6449168920517
+⛽ Precios de los combustibles:
+Gasolina 93: $1,322 x /L
+Gasolina 97: $1,444 x /L
+Petroleo Diesel: $1,011 x /L
+Kerosene: $1,057 x /L
+Gasolina 95: $1,381 x /L
+Gasolina 95: $1,373 x /L
+Gasolina 93: $1,314 x /L
+Gasolina 97: $1,436 x /L
+Petroleo Diesel: $1,003 x /L
+--------------------------------------------------
+📍 Nombre: MAPOCHO 2948
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.43287391632059,-70.67705243825912
+⛽ Precios de los combustibles:
+Gasolina 93: $1,291 x /L
+Gasolina 97: $1,365 x /L
+Petroleo Diesel: $994 x /L
+Kerosene: $1,199 x /L
+Gasolina 95: $1,328 x /L
+--------------------------------------------------
+📍 Nombre: BRASIL 154
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.44241788189269,-70.66533923149109
+⛽ Precios de los combustibles:
+Gasolina 93: $1,291 x /L
+Gasolina 97: $1,365 x /L
+Petroleo Diesel: $1,003 x /L
+Kerosene: $1,089 x /L
+Gasolina 95: $1,328 x /L
+--------------------------------------------------
+📍 Nombre: MANUEL ANTONIO MATTA 380
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.45722193275006,-70.6366315484047
+⛽ Precios de los combustibles:
+Gasolina 93: $1,320 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,010 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: COMPAÑIA 1908
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.440005130460214,-70.66384792327881
+⛽ Precios de los combustibles:
+Gasolina 93: $1,226 x /L
+Gasolina 97: $1,289 x /L
+Petroleo Diesel: $1,013 x /L
+Kerosene: $1,216 x /L
+Gasolina 95: $1,256 x /L
+--------------------------------------------------
+📍 Nombre: Portugal 270
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.44594447388406,-70.63573788731384
+⛽ Precios de los combustibles:
+Gasolina 93: $1,330 x /L
+Gasolina 97: $1,433 x /L
+Petroleo Diesel: $1,034 x /L
+Gasolina 95: $1,382 x /L
+Gasolina 93: $1,322 x /L
+Gasolina 95: $1,374 x /L
+Gasolina 97: $1,425 x /L
+Petroleo Diesel: $1,026 x /L
+--------------------------------------------------
+📍 Nombre: VIEL 1086
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.460173488935496,-70.65627336502075
+⛽ Precios de los combustibles:
+Gasolina 93: $1,320 x /L
+Gasolina 97: $1,442 x /L
+Petroleo Diesel: $1,009 x /L
+Kerosene: $1,062 x /L
+Gasolina 95: $1,379 x /L
+--------------------------------------------------
+📍 Nombre: PEDRO MONTT 1501
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.4727707376413,-70.65461039543152
+⛽ Precios de los combustibles:
+Kerosene: $1,061 x /L
+Gasolina 93: $1,317 x /L
+Gasolina 95: $1,377 x /L
+Gasolina 97: $1,436 x /L
+Petroleo Diesel: $1,004 x /L
+--------------------------------------------------
+📍 Nombre: PORTUGAL 175
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.444850708947,-70.6372618675232
+⛽ Precios de los combustibles:
+Gasolina 93: $1,322 x /L
+Gasolina 97: $1,425 x /L
+Petroleo Diesel: $1,026 x /L
+Kerosene: $1,064 x /L
+Gasolina 95: $1,374 x /L
+--------------------------------------------------
+📍 Nombre: COMPAÑÍA 1942
+🗺️ Dirección en mapa: https://www.google.com/maps/search/?api=1&query=-33.439857,-70.663218
+⛽ Precios de los combustibles:
+Gasolina 93: $1,285 x /L
+Gasolina 95: $1,322 x /L
+Gasolina 97: $1,359 x /L
+Petroleo Diesel: $997 x /L
+Kerosene: $1,064 x /L
+--------------------------------------------------
